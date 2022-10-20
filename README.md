@@ -6,12 +6,14 @@ Alternatively, get corona statistics in the US from https://covidtracking.com/da
 
 ## How to get started?
 
-Clone the project fron this repository and then activate the virtual environment:
+Clone the project from this repository and then activate the virtual environment:
 
 ```bash
 source .myvenv/bin/activate
 ```
-If you are working with VS Studio Code, make sure you select the .myvenv as your interpreter. All set!
+If you are working with VS Studio Code, make sure you select the .myvenv as your interpreter:
+
+Command Palette > Select Interpreter > Enter interpreter path > Select the .myenv from this project
 
 Once you are done, deactivate the environment:
 
