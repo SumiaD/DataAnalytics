@@ -25,9 +25,9 @@ Select the .myvenv as your interpreter:
 
 Command Palette > Select Interpreter > Enter interpreter path > Select the .myenv from this project
 
-Select your .myenv as your Kernel.
+Then open the Jupyter Notebook and select your .myenv as your Kernel.
 
-You are all set! Now you can open the Jupyter Notebook and reproduce each step.
+You are all set! Now you can  and reproduce each step.
 
 Once you are done with the analysis, deactivate the environment:
 
