@@ -6,20 +6,6 @@ Alternatively, get corona statistics in the US from https://covidtracking.com/da
 
 ## How to get started?
 
-#### Data Platform Appliance
-
-Clone the project from this repository, open Jupyter Notebook *api_requests.ipynb* and try to install the libraries. The most libraries should be preinstalled, therefore to save your time only install the ones that are missing in the appliance (you will see which ones are missing in the error message):
-
-```bash
-pip install <PACKAGE>
-```
-
-Alternatively, you can install all the packages from the requirements list, already installed packages will be automatically omitted by pip (but this still can take longer):
-
-```bash
-pip install -r data-analytics/requirements.txt
-```
-
 #### VS Studio Code
 
 Clone the project from this repository and then creeate & activate the virtual environment:
