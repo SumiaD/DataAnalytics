@@ -1,0 +1,10 @@
+# Environments
+.env
+.venv
+.myvenv
+
+# Iframe-Pictures
+iframe_figures/*
+
+# Autosaved Jupyter Notebook versions
+.ipynb_checkpoints/*
