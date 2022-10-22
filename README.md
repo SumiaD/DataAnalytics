@@ -27,9 +27,7 @@ Command Palette > Select Interpreter > Enter interpreter path > Select the .myen
 
 Select your .myenv as your Kernel.
 
-> **TIP**: If your VS Studio Code has troubles assigning your new environment as your Kernel, create a new Jupyter Notebook file - then you should be able to select your .myvenv as your Kernel.
-
-You are all set! Now you should be able to reproduce each step in the Jupyter Notebook.
+You are all set! Now you can open the Jupyter Notebook and reproduce each step.
 
 Once you are done with the analysis, deactivate the environment:
 
