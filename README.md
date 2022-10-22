@@ -23,9 +23,9 @@ pip install -r data-analytics/requirements.txt
 
 Select the .myvenv as your interpreter:
 
-Command Palette > Select Interpreter > Enter interpreter path > Select the .myenv from this project
+> Command Palette > Select Interpreter > Enter interpreter path > Select the .myvenv from this project
 
-Then open the Jupyter Notebook and select your .myenv as your Kernel.
+Then open the Jupyter Notebook and select your .myenv as your kernel.
 
 You are all set! Now you can  and reproduce each step.
 
